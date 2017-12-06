@@ -1,3 +1,4 @@
+##adding comments 2
 path_train = './raw/train.csv' 
 path_test  = './raw/test.csv' 
 path_sampleSubmission = './raw/sampleSubmission.csv'
