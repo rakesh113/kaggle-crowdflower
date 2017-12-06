@@ -1,4 +1,4 @@
-##adding comments 2
+##adding comments branch
 path_train = './raw/train.csv' 
 path_test  = './raw/test.csv' 
 path_sampleSubmission = './raw/sampleSubmission.csv'
